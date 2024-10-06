@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: dictionary
+Version: 0.1
+Summary: A speaking dictionary application with text-to-speech functionality.
+Home-page: https://github.com/arinagrawal05/pip_dictionary
+Author: Arin Agrawal
+Author-email: arindeveloper05@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+License-File: LICENCE
+
+# Speaking Dictionary with Text To Speech
+
+This is a Python package that provides a speaking dictionary application using text-to-speech functionality. Users can search for words, hear their meanings, and manage a history of searched words.
+
+## Features
+
+- Search for words and get their meanings.
+- Text-to-speech functionality to pronounce the meanings.
+- Copy the meaning of a word to the clipboard.
+- "Word of the Day" feature to discover new words.
+- History of searched words.
+
+## Installation
+
+To install this package, clone the repository and navigate to the directory:
+
+```bash
+# git clone https://github.com/yourusername/speaking_dictionary.git
+# cd speaking_dictionary
